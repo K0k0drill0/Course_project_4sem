@@ -1,0 +1,16 @@
+[06.06.2024 22:04:08][TRACE]start work database
+[06.06.2024 22:04:10][TRACE]directory FILESYSTEM has deleted
+[06.06.2024 22:04:10][TRACE]in memory cache
+[06.06.2024 22:04:15][TRACE]can_execute has started in command_add_pool
+[06.06.2024 22:04:15][TRACE]start can execute in command add scheme
+[06.06.2024 22:04:15][TRACE]start can_execute add collection
+[06.06.2024 22:04:15][TRACE]start can_execute add value
+[06.06.2024 22:04:15][TRACE]start can_execute add value
+[06.06.2024 22:04:15][TRACE]start can_execute add value
+[06.06.2024 22:04:15][TRACE]start can_execute add value
+[06.06.2024 22:04:15][TRACE]start can_execute add value
+[06.06.2024 22:04:15][TRACE]start can_execute delete scheme
+[06.06.2024 22:04:15][TRACE]start can_execute delete scheme
+[06.06.2024 22:04:15][TRACE]start can_execute delete pool
+[06.06.2024 22:04:15][INFORMATION]pool name: dfg
+[06.06.2024 22:04:15][TRACE]start execute delete pool

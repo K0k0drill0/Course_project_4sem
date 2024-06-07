@@ -1,0 +1,3 @@
+/home/kokodrillo/git_projects/Course_Project_4sem/build/CMakeFiles/course_project.dir
+/home/kokodrillo/git_projects/Course_Project_4sem/build/CMakeFiles/edit_cache.dir
+/home/kokodrillo/git_projects/Course_Project_4sem/build/CMakeFiles/rebuild_cache.dir

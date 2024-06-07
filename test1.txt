@@ -1,0 +1,8 @@
+ADD_POOL pool1
+ADD_POOL pool2
+ADD_SCHEME pool1 scheme1
+ADD_SCHEME pool2 scheme2
+ADD_COLLECTION pool1 scheme1 collection1
+ADD_COLLECTION pool2 scheme2 collection2
+ADD_VALUE pool1 scheme1 collection1 100 100 10.10.2010 0 Moscow info
+ADD_VALUE pool2 scheme1 collection1 100 100 10.10.2010 0 Spb info
